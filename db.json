@@ -1,41 +1,41 @@
     {
         "Create": {
-  "id": 0,
-  "started": "2018-06-30T10:30:00+0200",
-  "finished": "2018-06-30T10:30:00+0200",
-  "startedTimeZone": "Europe/Warsaw",
-  "finishedTimeZone": "Europe/Warsaw",
-  "duration": 28800,
-  "person": {
-    "firstName": "John",
-    "lastName": "Williams",
-    "email": "john.williams@domain.com",
-    "externalId": "A12Y"
-  },
-  "breaks": [
-    {
-      "from": "2019-09-16T11:34:23+0000",
-      "to": "2019-09-16T11:15:55+0000",
-      "duration": 28800,
-      "breakType": {
-        "id": 0,
-        "name": "Primary break"
-      }
-    }
-  ],
-  "projects": [
-    {
-      "from": "2019-09-16T11:15:30+0000",
-      "to": "2019-09-13T10:05:39+0000",
-      "duration": 28800,
-      "project": {
-        "id": 0,
-        "name": "Primary project"
-      }
-    }
-  ],
-  "closed": true
-}
+          "id": 0,
+          "started": "2018-06-30T10:30:00+0200",
+          "finished": "2018-06-30T10:30:00+0200",
+          "startedTimeZone": "Europe/Warsaw",
+          "finishedTimeZone": "Europe/Warsaw",
+          "duration": 28800,
+          "person": {
+            "firstName": "John",
+            "lastName": "Williams",
+            "email": "john.williams@domain.com",
+            "externalId": "A12Y"
+          },
+          "breaks": [
+            {
+              "from": "2019-09-16T11:34:23+0000",
+              "to": "2019-09-16T11:15:55+0000",
+              "duration": 28800,
+              "breakType": {
+                "id": 0,
+                "name": "Primary break"
+              }
+            }
+          ],
+          "projects": [
+            {
+              "from": "2019-09-16T11:15:30+0000",
+              "to": "2019-09-13T10:05:39+0000",
+              "duration": 28800,
+              "project": {
+                "id": 0,
+                "name": "Primary project"
+              }
+            }
+          ],
+          "closed": true
+        },
         "total_visit":{
                 "name":"Total Visite Done",
                 "number":555555
